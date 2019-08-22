@@ -1,4 +1,14 @@
-> JPA(Java Persistence API)를 보다 쉽게 사용할 수 있도록 여러 기능을 제공하는 스프링 데이터 JPA에 대해 학습
+
+##목차
+
+- [관계형 데이터베이스와 자바](#관계형-데이터베이스와-자바)
+- [ORM: Object-Relation Mapping](#ORM:-Object-Relation-Mapping) 
+- [JPA 프로그래밍: 프로젝트 세팅](#JPA-프로그래밍:-프로젝트-세팅)
+- [JPA 프로그래밍: 엔티티 맵핑](#JPA-프로그래밍:-엔티티-맵핑)
+- [JPA 프로그래밍: 1대다 맵핑](#JPA-프로그래밍:-1대다-맵핑)
+- [JPA 프로그래밍: Cascade](#JPA-프로그래밍:-Cascade)
+- [JPA 프로그래밍: Query](#JPA-프로그래밍:-Query)
+- [스프링 데이터 JPA 소개 및 원리](#스프링-데이터-JPA-소개-및-원리)
 
 ## 왜 JPA를 학습해야 하는가?
 
